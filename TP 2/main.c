@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include "ArrayEmployees.h"
 #include "utn.h"
-#define CANT 4
+#define CANT 1000
 
 
 int main()
