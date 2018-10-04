@@ -1,0 +1,114 @@
+# depslib dependency file v1.0
+1537797572 source:d:\alpuin schunk\tp 2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+
+1537797125 d:\alpuin schunk\tp 2\arrayemployees.h
+
+1537797572 source:d:\alpuin schunk\tp 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+
+1537967942 source:d:\alpuin\revisar-master\tp 2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+
+1537966775 d:\alpuin\revisar-master\tp 2\arrayemployees.h
+
+1537967942 source:d:\alpuin\revisar-master\tp 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+
+1537731568 source:c:\users\rodrigo\desktop\antonella\biblioteca central\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1538529454 source:c:\users\rodrigo\desktop\antonella\bibliotecacentral\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1538100645 source:c:\users\rodrigo\desktop\antonella\tp 2\tp 2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+
+1538100035 c:\users\rodrigo\desktop\antonella\tp 2\tp 2\arrayemployees.h
+
+1538527203 source:c:\users\rodrigo\desktop\antonella\tp 2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"../BibliotecaCentral/utn.h"
+
+1538419715 c:\users\rodrigo\desktop\antonella\tp 2\arrayemployees.h
+
+1538520344 c:\users\rodrigo\desktop\antonella\bibliotecacentral\utn.h
+
+1538515849 source:c:\users\rodrigo\desktop\antonella\tp 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+	"../BibliotecaCentral/utn.h"
+
+1538240432 source:c:\users\rodrigo\desktop\antonella\bibliotecacentral\input.c
+
+1538240434 source:d:\alpuin\antonella\bibliotecacentral\input.c
+
+1538100202 source:d:\alpuin\antonella\bibliotecacentral\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1538394533 source:d:\alpuin\antonella\tp 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+	"../BibliotecaCentral/utn.h"
+
+1538394709 d:\alpuin\antonella\tp 2\arrayemployees.h
+
+1538101658 d:\alpuin\antonella\bibliotecacentral\utn.h
+
+1538394555 source:d:\alpuin\antonella\tp 2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"../BibliotecaCentral/utn.h"
+
+1538621173 source:c:\users\rodrigo\desktop\antonella\tp 2 - copia\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"utn.h"
+
+1538621185 c:\users\rodrigo\desktop\antonella\tp 2 - copia\arrayemployees.h
+
+1538621194 source:c:\users\rodrigo\desktop\antonella\tp 2 - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+	"utn.h"
+
+1538610197 source:c:\users\rodrigo\desktop\antonella\tp 2 - copia\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1538613179 c:\users\rodrigo\desktop\antonella\tp 2 - copia\utn.h
+
